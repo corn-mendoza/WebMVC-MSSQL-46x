@@ -1,18 +1,18 @@
-namespace TestMVC462.Migrations
+namespace WebMVC461.Migrations
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<TestMVC462.Models.TreasureContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<WebMVC461.Models.TreasureContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(TestMVC462.Models.TreasureContext context)
+        protected override void Seed(WebMVC461.Models.TreasureContext context)
         {
             //  This method will be called after migrating to the latest version.
 

@@ -5,7 +5,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Web;
 
-namespace TestMVC462.Models
+namespace WebMVC461.Models
 {
     public class TreasureContext : DbContext
     {

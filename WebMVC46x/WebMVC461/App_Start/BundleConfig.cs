@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace TestMVC462
+namespace WebMVC461
 {
     public class BundleConfig
     {

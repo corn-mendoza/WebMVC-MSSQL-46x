@@ -1,4 +1,4 @@
-namespace TestMVC462.Migrations
+namespace WebMVC461.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;

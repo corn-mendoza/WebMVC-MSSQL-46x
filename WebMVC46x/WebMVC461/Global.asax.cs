@@ -7,10 +7,10 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
-using TestMVC462.Migrations;
-using TestMVC462.Models;
+using WebMVC461.Migrations;
+using WebMVC461.Models;
 
-namespace TestMVC462
+namespace WebMVC461
 {
     public class MvcApplication : System.Web.HttpApplication
     {

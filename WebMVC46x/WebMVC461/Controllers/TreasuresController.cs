@@ -6,10 +6,10 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using TestMVC462.Models;
+using WebMVC461.Models;
 using Workshop.Models;
 
-namespace TestMVC462.Views
+namespace WebMVC461.Views
 {
     public class TreasuresController : Controller
     {
